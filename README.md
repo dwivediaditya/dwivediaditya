@@ -5,7 +5,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aditya-narayan-070b2b115/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/thereal_adi) ![visitors](https://hit-badger.glitch.me/badge?page_id=dwivediaditya.id)
 
 <!--
-**bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dwivediaditya/dwivediaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a IBMi System Analyst ,Data Enginnering enthusiast ,Open Source Contributor and a Teamplayer!
+I am a IBMi System Analyst ,Data Engineering enthusiast ,Open Source Contributor and a Teamplayer!
  
 
 🌱 I’m currently exploring: Data Engineering
