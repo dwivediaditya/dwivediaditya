@@ -29,17 +29,17 @@ I am a IBMi System Analyst ,Data Enginnering enthusiast ,Open Source Contributor
 
 💬 Ask me about: Python , Data Analytics,Machine Learning , Carrom and a good playlist🎧
 
-📄 Resume : https://drive.google.com/drive/u/1/my-drive 
+📄 Resume : 
 
 ### Languages and Tools-
 
 
-| Python | Sklearn | C++ | Tableau |
-| :---: | :---: | :---: | :---: |
+| Python | Sklearn | C++ |
+| :---: | :---: | :---: |
 
 
-| C | SQL | Pytorch | Numpy |
-| :---: | :---: | :---: | :---: |
+| C | SQL |Numpy |
+| :---: | :---: | :---: 
 
 | Pandas | OpenCV | Matplotlib |
 | :---: |:---: | :---: |
