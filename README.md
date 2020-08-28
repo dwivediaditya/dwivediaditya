@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
+I am a IBMi System Analyst ,Data Enginnering enthusiast ,Open Source Contributor and a Teamplayer!
  
 
 🌱 I’m currently exploring: Data Engineering
