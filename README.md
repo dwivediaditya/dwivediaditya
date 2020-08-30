@@ -27,7 +27,7 @@ I am a IBMi System Analyst ,Data Engineering enthusiast ,Open Source Contributor
 
 🔭 I’m currently working on : Data Analsysis , Skit-Learn, Pytorch.
 
-💬 Ask me about: Python , Data Analytics,Machine Learning , Carrom and a good playlist🎧
+💬 Ask me about: Python, Data Analytics, Machine Learning , Carrom and a good playlist🎧
 
 📄 Resume : 
 
