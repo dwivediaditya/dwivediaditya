@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
-### Hi there 👋 My name is Aditya Dwivedi(Aditya Narayan)! 
+### Hi there 👋 My name is Aditya Dubey! 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aditya-narayan-070b2b115/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/thereal_adi) ![visitors](https://hit-badger.glitch.me/badge?page_id=dwivediaditya.id)
 
