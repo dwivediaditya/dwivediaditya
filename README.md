@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Sr. IBMi OPS Analyst ,Data Engineering enthusiast ,Open Source Contributor and a Teamplayer!
+I am a Sr. Cloud Data Analyst & Data Engineering enthusiast ,Open Source Contributor and a Teamplayer!
  
 
 🌱 I’m currently exploring: Data Engineering
